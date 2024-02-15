@@ -1,3 +1,3 @@
-Jupyter Lab - Python
+Jupyter NoteBook - Python
 ---------------------
 1. Data Analaysis
